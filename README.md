@@ -92,3 +92,5 @@ smart_grid_load_forecasting_demand_response/
 ## Research Relevance
 
 This project supports my research interests in smart grids, machine learning for energy systems, electricity demand forecasting, and intelligent energy management.
+# smart_grid_load_forecasting_demand_response
+Electricity load forecasting and demand response simulation using Python and machine learning
